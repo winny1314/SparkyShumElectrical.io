@@ -1,6 +1,6 @@
 ## Sparky Shum Electrical
 
-My name is Ben Shum - you can also call me the sickest cunt in the North Shore - if you require any Electrical help please call 0416 426 262 !!
+My name is Ben Shum if you require any Electrical help please call XXX XXX XXXX !!
 
 ![Image 1](https://user-images.githubusercontent.com/87125373/124922397-cdc79200-e03c-11eb-9f26-67af90a54759.png)
 
