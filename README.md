@@ -2,12 +2,9 @@
 
 My name is Ben Shum - you can call me the sickest cuzzy in the North Shore - if you require any Electrical help please call 0416 426 262
 
-<p align="center">
-  <a href="https://jeffreytse.github.io/jekyll-theme-yat">
-    <img src="https://github.com/winny1314/SparkyShumElectrical.io/blob/main/Image%201.png"
-      alt="Github Pages" />
-  </a>
-</p>
+<td align="center" bgcolor="#70bbd9" style="padding: 40px 0 30px 0;">
+ <img src="https://github.com/winny1314/SparkyShumElectrical.io/blob/main/Image%201.png" width="300" height="230" style="display: block;" />
+</td>
 
 ### Services
 
