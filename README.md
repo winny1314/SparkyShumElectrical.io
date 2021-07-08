@@ -2,9 +2,8 @@
 
 My name is Ben Shum - you can call me the sickest cuzzy in the North Shore - if you require any Electrical help please call 0416 426 262
 
-<td align="center" bgcolor="#70bbd9" style="padding: 40px 0 30px 0;">
- <img src="https://github.com/winny1314/SparkyShumElectrical.io/blob/main/Image%201.png" width="300" height="230" style="display: block;" />
-</td>
+<img alt="ALT TEXT" border="0" src="https://github.com/winny1314/SparkyShumElectrical.io/blob/main/Image%201.png" width="300" height="230" style="display:block; border:none; line-height: 100px;
+text-align: center;"/>
 
 ### Services
 
