@@ -7,6 +7,7 @@ My name is Ben Shum - you can call me the sickest cuzzy in the North Shore - if 
     <img src="https://github.com/winny1314/SparkyShumElectrical.io/blob/main/Image%201.png"
       alt="Github Pages" />
   </a>
+</p>
 
 ### Services
 
